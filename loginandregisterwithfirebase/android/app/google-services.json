@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775071918585",
+    "project_id": "loginandregisterwithfire-aede5",
+    "storage_bucket": "loginandregisterwithfire-aede5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775071918585:android:358cd34e5d3da8f12f7528",
+        "android_client_info": {
+          "package_name": "com.example.loginandregisterwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775071918585-679llgp8i7csg6hmcv9k66dr0i56c3oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfawsR5xvQLlWb9ZokcP_vVTsoINd-Fhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775071918585-679llgp8i7csg6hmcv9k66dr0i56c3oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
